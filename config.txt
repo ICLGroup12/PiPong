@@ -1,0 +1,8 @@
+hdmi_group=1
+hdmi_mode=1
+disable_overscan=1
+framebuffer_depth=16
+disable_pvt=1
+gpu_mem_256=160
+gpu_mem_512=316
+

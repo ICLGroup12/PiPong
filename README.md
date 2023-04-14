@@ -28,16 +28,7 @@ To install PiPong replace the kernel.img and config.txt files on the Pi's SD car
 
 # Authors
 
-Oliver Brown
-- Email: oliver.brown14@imperial.ac.uk
-- Github: @obrown
-
-Giacomo Guerci
-- Email: giacomo.guerci14@imperial.ac.uk
-- Github: @giacomoguerci
-
-Dylan Gape
-- Email: dylan.gape14@imperial.ac.uk
-
-Frances Tibble
-- Email: frances.tibble14@imperial.ac.uk
+- Oliver Brown
+- James Reaver
+- Dylan Gape
+- Frances Tibble
